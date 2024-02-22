@@ -8,10 +8,10 @@ My personal style/colorscheme configuration files for Zim Desktop Wiki.
 
 ## Tomorrow (light)
 
-<img src="tomorrow-light-1.png" width="250">
-<img src="tomorrow-light-2.png" width="250">
+<img src="tomorrow-light-1.png">
+<img src="tomorrow-light-2.png">
 
 ## Tomorrow Night (dark)
 
-<img src="tomorrow-night-1.png" width="250">
-<img src="tomorrow-night-2.png" width="250">
+<img src="tomorrow-night-1.png">
+<img src="tomorrow-night-2.png">
